@@ -1,0 +1,10 @@
+#This is a file that specifies URL of the robot script.
+http://dl.dropbox.com/u/14702102/luaridapublic/robot/rbcompass.lua
+#http://dl.dropbox.com/u/14702102/luaridapublic/robot/soju.lua
+#http://192.168.24.99/robot/soju.lua
+#http://192.168.24.99/robot/jidorun.lua
+#http://192.168.24.99/robot/getdata.lua
+#http://192.168.24.99/robot/mfsdroid.lua
+#http://dl.dropbox.com/u/14702102/luaridapublic/robot/pumptest2.lua
+#http://dl.dropbox.com/u/14702102/luaridapublic/robot/robottest2.lua
+#http://dl.dropbox.com/u/14702102/luaridapublic/robot/robottest.lua

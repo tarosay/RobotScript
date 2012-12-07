@@ -1,0 +1,6 @@
+#This is URL with the file that specifies the robot script.
+#http://192.168.0.199/robot/rbscript.add
+#http://192.168.24.99/robot/rbscript.add
+http://dl.dropbox.com/u/14702102/luaridapublic/robot/rbscript.add
+#http://192.168.1.100/robottest.lua
+
